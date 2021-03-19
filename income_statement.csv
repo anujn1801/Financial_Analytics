@@ -1,0 +1,24 @@
+,metric,2012-12,2013-12,2014-12,2015-12,2016-12,TTM
+0,Revenue,413.0,2013.0,3198.0,4046.0,7000.0,10755.0
+1,Cost of revenue,383.0,1557.0,2317.0,3123.0,5401.0,8536.0
+2,Gross profit,30.0,456.0,882.0,924.0,1599.0,2219.0
+3,Operating expenses,nan,nan,nan,nan,nan,nan
+4,Research and development,274.0,232.0,465.0,718.0,834.0,1269.0
+5,"Sales, General and administrative",150.0,286.0,604.0,922.0,1432.0,2250.0
+6,Total operating expenses,424.0,518.0,1068.0,1640.0,2267.0,3520.0
+7,Operating income,-394.0,-61.0,-187.0,-717.0,-667.0,-1301.0
+8,Interest Expense,0.0,33.0,101.0,119.0,199.0,390.0
+9,Other income (expense),-2.0,23.0,3.0,-40.0,120.0,53.0
+10,Income before taxes,-396.0,-71.0,-285.0,-876.0,-746.0,-1638.0
+11,Provision for income taxes,0.0,3.0,9.0,13.0,27.0,52.0
+12,Net income from continuing operations,-396.0,-74.0,-294.0,-889.0,-773.0,-1689.0
+13,Other,nan,nan,nan,nan,98.0,282.0
+14,Net income,-396.0,-74.0,-294.0,-889.0,-675.0,-1407.0
+15,Net income available to common shareholders,-396.0,-74.0,-294.0,-889.0,-675.0,-1407.0
+16,Earnings per share,nan,nan,nan,nan,nan,nan
+17,Basic,-3.69,-0.62,-2.36,-6.93,-4.68,-8.54
+18,Diluted,-3.69,-0.62,-2.36,-6.93,-4.68,-8.54
+19,Weighted average shares outstanding,nan,nan,nan,nan,nan,nan
+20,Basic,107.0,119.0,125.0,128.0,144.0,162.0
+21,Diluted,107.0,119.0,125.0,128.0,144.0,162.0
+22,EBITDA,-367.0,68.0,48.0,-334.0,400.0,246.0
