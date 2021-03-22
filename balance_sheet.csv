@@ -1,0 +1,47 @@
+,metric,2013-12,2014-12,2015-12,2016-12,2017-12
+0,Assets,nan,nan,nan,nan,nan
+1,Current assets,nan,nan,nan,nan,nan
+2,Cash,nan,nan,nan,nan,nan
+3,Cash and cash equivalents,14468.0,10757.0,14272.0,15905.0,18492.0
+4,Short-term investments,22100.0,20393.0,20904.0,22922.0,20435.0
+5,Total cash,36568.0,31150.0,35176.0,38827.0,38927.0
+6,Receivables,87309.0,92819.0,101975.0,57368.0,62809.0
+7,Inventories,7708.0,7866.0,8319.0,8898.0,10277.0
+8,Other current assets,nan,nan,nan,3368.0,3889.0
+9,Total current assets,131585.0,131835.0,145470.0,108461.0,115902.0
+10,Non-current assets,nan,nan,nan,nan,nan
+11,"Property, plant and equipment",nan,nan,nan,nan,nan
+12,"Gross property, plant and equipment",59092.0,59260.0,57629.0,59876.0,65189.0
+13,Accumulated Depreciation,-31476.0,-29134.0,-27466.0,-27804.0,-29862.0
+14,"Net property, plant and equipment",27616.0,30126.0,30163.0,32072.0,35327.0
+15,Equity and other investments,23663.0,26574.0,30317.0,32133.0,31320.0
+16,Deferred income taxes,13315.0,13639.0,11509.0,9705.0,10973.0
+17,Other long-term assets,5847.0,6353.0,7466.0,55580.0,64286.0
+18,Total non-current assets,70441.0,76692.0,79455.0,129490.0,141906.0
+19,Total assets,202026.0,208527.0,224925.0,237951.0,257808.0
+20,Liabilities and stockholders' equity,nan,nan,nan,nan,nan
+21,Liabilities,nan,nan,nan,nan,nan
+22,Current liabilities,nan,nan,nan,nan,nan
+23,Short-term debt,38063.0,39172.0,42998.0,49669.0,51621.0
+24,Accrued liabilities,2682.0,2987.0,2385.0,nan,13849.0
+25,Deferred revenues,2817.0,3923.0,4559.0,19316.0,2107.0
+26,Other current liabilities,30569.0,31059.0,31320.0,21296.0,27023.0
+27,Total current liabilities,74131.0,77141.0,81262.0,90281.0,94600.0
+28,Non-current liabilities,nan,nan,nan,nan,nan
+29,Long-term debt,76625.0,79999.0,89856.0,93301.0,102666.0
+30,Deferred taxes liabilities,598.0,570.0,502.0,691.0,815.0
+31,Accrued liabilities,2260.0,nan,nan,nan,nan
+32,Deferred revenues,2534.0,2686.0,2833.0,24395.0,24711.0
+33,Pensions and other benefits,14790.0,15712.0,9541.0,nan,nan
+34,Minority interest,33.0,27.0,15.0,17.0,28.0
+35,Other long-term liabilities,4672.0,7587.0,12274.0,96.0,98.0
+36,Total non-current liabilities,101512.0,106581.0,115021.0,118500.0,128318.0
+37,Total liabilities,175643.0,183722.0,196283.0,208781.0,222918.0
+38,Stockholders' equity,nan,nan,nan,nan,nan
+39,Common stock,40.0,40.0,41.0,41.0,41.0
+40,Additional paid-in capital,21422.0,21089.0,21421.0,21630.0,21843.0
+41,Retained earnings,23658.0,24556.0,14414.0,15634.0,21218.0
+42,Treasury stock,-506.0,-848.0,-977.0,-1122.0,-1253.0
+43,Accumulated other comprehensive income,-18231.0,-20032.0,-6257.0,-7013.0,-6959.0
+44,Total stockholders' equity,26383.0,24805.0,28642.0,29170.0,34890.0
+45,Total liabilities and stockholders' equity,202026.0,208527.0,224925.0,237951.0,257808.0
